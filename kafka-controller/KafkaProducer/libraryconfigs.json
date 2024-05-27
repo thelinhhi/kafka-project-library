@@ -1,0 +1,10 @@
+{
+  "kafkaConfigs": {
+    "IsActive": true,
+    "Username": "fti-cm",
+    "Password": "BBrfApze4LKA7f",
+    "BootstrapServers": "kafka-queue-dev-1:9092,kafka-queue-dev-2:9093,kafka-queue-dev-3:9094",
+    "Topic": "dev-fti-cm-background-service-sendmail-queue",
+    "GroupId": "dev-fti-cm-background-service-sendmail-consumer"
+  }
+}
